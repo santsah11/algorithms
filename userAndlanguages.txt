@@ -13,6 +13,16 @@ function userlang(users){
       television: ["Black Mirror", "Stranger Things"]
     }
   },
+{
+    fname: "Sharika",
+    lname: "Rauniyar",
+    languages: ["Python", "JavaScript", "C#", "HTML", "CSS", "SQL"],
+    interests: {
+      music: ["guitar", "flute"],
+      dance: ["tap", "salsa"],
+      television: ["Black Mirror", "Stranger Things"]
+    }
+  },
   {
     fname: "Winnie",
     lname: "the Pooh",
