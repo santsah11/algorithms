@@ -1,0 +1,18 @@
+function Ssort(arr){
+  var temp;
+  var min;
+  for(var i =0;i<arr.length;i++){
+    min = i;
+    for(var j=i+1;j<arr.length;j++){
+      if(arr[j]<arr[min]){
+        min=j;
+      }
+    }
+    temp = arr[i]
+    arr[i]=arr[min];
+    arr[min]=temp ;
+    
+  }
+  return arr
+}
+console.log(Ssort([10,5,6,8,9,25,35,11,23]))

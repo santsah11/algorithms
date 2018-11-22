@@ -11,7 +11,11 @@ function test()
 	console.log(needle);
 }
 
-magnet
+function add(){
+ var num = 5;
+var num1 =10;
+console.log(10+5)
+}
 
 
 =============================
