@@ -22,3 +22,4 @@ max = arr[i];
 arr =[1,-2,9,4]
 
 minMaxAvg(arr)
+// this si making hnages
